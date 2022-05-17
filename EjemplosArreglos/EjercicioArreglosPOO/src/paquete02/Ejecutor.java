@@ -7,10 +7,12 @@ package paquete02;
 
 import java.util.Scanner;
 import paquete01.LibretaCalificacion;
+
 /**
  *
  * @author reroes
  */
+
 public class Ejecutor {
     public static void main(String[] args) {
         // listado de variables para ingreso de datos por teclado
